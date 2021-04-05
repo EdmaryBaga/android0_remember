@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">android0_remember</string>
-    <string name="title_second_screes">This is a second screen</string>
-    <string name="hint_edittext_name">Escribe tu nombre</string>
-    <string name="describtion_image1">is a image android girl</string>
+    <string name="describtion_image1">image of a girl android</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Login</string>
 </resources>
